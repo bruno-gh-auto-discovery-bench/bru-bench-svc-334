@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "users-smoke",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
